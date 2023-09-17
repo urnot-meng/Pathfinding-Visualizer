@@ -14,7 +14,7 @@ This is a project on visualizing path finding algorithms i.e BFS, DFS, Dijkstraâ
 
 ## Demo 
 
-![Demo](/Users/tracy/Documents/projects/pathfinding-visualizer/pathfinding-visualizer/src/PathfindingVisualizer/instruct.gif)
+![Demo](src/PathfindingVisualizer/instruct.gif)
 
 
 #### ENJOY THE BEAUTY OF ALGORITHMS!
