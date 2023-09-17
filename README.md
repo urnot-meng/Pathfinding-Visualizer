@@ -1,4 +1,4 @@
-# PathFinding-Visualizer: - A REACT APPLICATION
+# PathFinding-Visualizer
  [![Made With React](https://img.shields.io/badge/made%20with-react-61DAFB)](https://img.shields.io/badge/npm-6.13.7-blueviolet) 
 
 ---------------
