@@ -2,10 +2,10 @@
  [![Made With React](https://img.shields.io/badge/made%20with-react-61DAFB)](https://img.shields.io/badge/npm-6.13.7-blueviolet) 
 
 ---------------
-This is a project on visualizing path finding algorithms.  
-This app is entirely built in react.  
+This project focuses on visualizing pathfinding algorithms.    
+The app is built entirely with React.  
 
-You may visit the [Pathfinding Visualizer](https://urnot-meng.github.io/pathfinding-visualizer/) with Chrome (use full screen view for better experience). 
+For an optimal viewing experience, visit the [Pathfinding Visualizer](https://urnot-meng.github.io/pathfinding-visualizer/) using Chrome and use full-screen view.
 
 
 
