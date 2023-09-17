@@ -5,6 +5,8 @@
 This is a project on visualizing path finding algorithms.  
 This app is entirely built in react.
 
+[Visit on GitHub!](https://urnot-meng.github.io/pathfinding-visualizer/ "Pathfinding Visualizer")
+
 
 ## Algorithms Included
 
